@@ -1,0 +1,21 @@
+/* style.css for odin-recipes */
+
+h1 {
+    font-size: 80px;
+    color:  #f0f16c;
+    background-color:  #409243;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(252, 41, 41);
+}
+
+h3 {
+    color: #fb8989;
+}
+
+img {
+    border-radius: 10px;
+}
